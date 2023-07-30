@@ -1,0 +1,23 @@
+<svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Prototype icon">
+<circle id="Ellipse 14" cx="40" cy="40" r="40" fill="#E83F3F"/>
+<g id="Group 9">
+<rect id="Rectangle 26" x="24.8995" y="16.7071" width="55" height="13" transform="rotate(45 24.8995 16.7071)" stroke="white"/>
+<path id="Vector 11" d="M30 22L28 24" stroke="white"/>
+<path id="Vector 12" d="M34 26L32 28" stroke="white"/>
+<path id="Vector 13" d="M38 30L36 32" stroke="white"/>
+<path id="Vector 14" d="M42 34L40 36" stroke="white"/>
+<path id="Vector 15" d="M46 38L44 40" stroke="white"/>
+<path id="Vector 16" d="M50 42L48 44" stroke="white"/>
+<path id="Vector 17" d="M54 46L52 48" stroke="white"/>
+<path id="Vector 18" d="M58 50L56 52" stroke="white"/>
+</g>
+<g id="Group 11">
+<rect id="Rectangle 27" x="19.9467" y="51.3586" width="49.0043" height="13" transform="rotate(-45 19.9467 51.3586)" fill="#E83F3F" stroke="white"/>
+<path id="Polygon 2" d="M28.2248 60.9822L17.5056 63.1297L19.6532 52.4106L28.2248 60.9822Z" stroke="white"/>
+<path id="Vector 19" d="M47.5 24L56.5 33" stroke="white"/>
+<path id="Vector 20" d="M50.5 27L23 54.5" stroke="white"/>
+<path id="Vector 21" d="M54 30L26 59" stroke="white"/>
+</g>
+</g>
+</svg>
